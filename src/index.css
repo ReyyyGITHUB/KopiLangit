@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+.poppins {
+  font-family: "Poppins", sans-serif;
+}
+
+.montserrat {
+   font-family: "Montserrat", sans-serif;
+}
+
+.opensans {
+  font-family: "Open Sans", sans-serif;
+}
+
+body {
+  overflow-x: hidden;
+}
