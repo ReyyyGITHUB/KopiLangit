@@ -2,6 +2,7 @@ import React from "react";
 import Navbar from "../components/Navbar";
 import HeroSection from "../components/hero/HeroSection";
 import AboutSection from "../components/about/AboutSection";
+import MenuSection from "../components/MenuSection";
 
 export default function Base() {
   return (
@@ -11,6 +12,7 @@ export default function Base() {
         <Navbar />
         <HeroSection />
         <AboutSection />
+        <MenuSection />
       </div>
     </div>
   );
