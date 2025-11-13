@@ -1,8 +1,10 @@
 import React from "react";
 import Navbar from "../components/Navbar";
-import HeroSection from "../components/hero/HeroSection";
-import AboutSection from "../components/about/AboutSection";
-import MenuSection from "../components/MenuSection";
+import HeroSection from "../components/Hero/HeroSection";
+import AboutSection from "../components/About/AboutSection";
+import MenuSection from "../components/Menu/MenuSection";
+import TestimonialSection from "../components/Testimoni/TestimonialSection";
+import Footer from "../components/layout/Footer/Footer";
 
 export default function Base() {
   return (
@@ -13,6 +15,8 @@ export default function Base() {
         <HeroSection />
         <AboutSection />
         <MenuSection />
+        <TestimonialSection />
+        <Footer />
       </div>
     </div>
   );
