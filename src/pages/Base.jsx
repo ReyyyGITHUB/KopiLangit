@@ -1,6 +1,6 @@
 import React from "react";
 import Navbar from "../components/Navbar";
-import AboutSection from "../components/about/AboutSection";
+import AboutSection from "../components/about_new/AboutSection";
 import MenuSection from "../components/menu/MenuSection";
 import TestimonialSection from "../components/testimoni/TestimonialSection";
 import Footer from "../components/layout/Footer/Footer";
