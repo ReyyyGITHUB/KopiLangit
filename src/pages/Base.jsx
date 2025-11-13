@@ -1,8 +1,8 @@
 import React from "react";
 import Navbar from "../components/Navbar";
-import AboutSection from "../components/About/AboutSection";
-import MenuSection from "../components/Menu/MenuSection";
-import TestimonialSection from "../components/Testimoni/TestimonialSection";
+import AboutSection from "../components/about/AboutSection";
+import MenuSection from "../components/menu/MenuSection";
+import TestimonialSection from "../components/testimoni/TestimonialSection";
 import Footer from "../components/layout/Footer/Footer";
 import HeroSection from "../components/hero/HeroSection";
 
