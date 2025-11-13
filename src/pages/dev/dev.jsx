@@ -1,5 +1,4 @@
 import React from "react";
-import Navbar from "../../components/Navbar";
 
 export default function DevMode() {
   return (
@@ -50,7 +49,7 @@ export default function DevMode() {
               </div>
               {/* social icon */}
               <div className="flex flex-row gap-6">
-                
+
               </div>
             </div>
           </div>
